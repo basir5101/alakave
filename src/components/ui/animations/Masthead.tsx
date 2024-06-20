@@ -11,7 +11,7 @@ const Masthead: React.FC = () => {
   const local = useLocale();
 
   const handleClick = () => {
-    router.push(`/home_screen`, { locale: local });
+    router.push(`/home_screen`, { locale: "fr" });
   };
 
   const [imageLoaded, setImageLoaded] = useState(false);
