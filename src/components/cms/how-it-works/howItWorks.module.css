@@ -1,0 +1,51 @@
+/* howItWorks.module.css */
+.gridContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Creates three columns */
+  gap: 24px; /* Space between columns and rows */
+  padding: 24px; /* Padding around the entire grid */
+  max-width: 1200px; /* Max width of the grid to prevent cards from stretching too wide */
+  margin: 0 auto; /* Centers the grid container in the middle of the page */
+}
+
+.gridItem {
+  background: #f3f3f3; /* Light grey background for each card */
+  border-radius: 8px; /* Rounded corners for each card */
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Subtle shadow for each card */
+  padding: 20px; /* Padding inside each card */
+  display: flex; /* Enables flexbox for content alignment */
+  flex-direction: column; /* Stacks items vertically */
+  justify-content: space-between; /* Distributes space between items */
+}
+
+.gridItem h2 {
+  color: #BF9000; /* Tailwind's yellow-600 color */
+  margin: 0 0 10px 0; /* Spacing between the title and the content below */
+  font-size: 1.5em; /* Adjust the size as needed */
+}
+
+.gridItem p {
+  color: #333; /* Darker text color for contrast */
+  margin: 0 0 20px 0; /* Spacing between the paragraph and link below */
+  font-size: 1em; /* Adjust the size as needed */
+}
+
+.gridItem a {
+  color: #BF9000; /* Tailwind's yellow-600 color for links */
+  text-decoration: none; /* No underline on links */
+  font-weight: bold; /* Make link text bold */
+}
+
+/* Responsive behavior */
+@media (max-width: 992px) {
+  .gridContainer {
+    grid-template-columns: repeat(2, 1fr); /* Two columns on medium screens */
+  }
+}
+
+@media (max-width: 768px) {
+  .gridContainer {
+    grid-template-columns: 1fr; /* One column on small screens */
+    padding: 24px 12px; /* Smaller padding on the sides */
+  }
+}

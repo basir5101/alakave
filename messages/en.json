@@ -1,0 +1,525 @@
+{
+  "Navbar": {
+    "search": "Search for bottles",
+    "register": "Sign up",
+    "login": "Log in",
+    "sell": "Sell a bottle",
+    "menu1": "My account",
+    "menu2": "Messages",
+    "menu3": "My Kave",
+    "menu4": "My friends and my reviews",
+    "menu5": "Order tracking",
+    "menu6": "My wallet"
+  },
+  "SideMenu": {
+    "account": "My account",
+    "wineGuide": "Wine guide",
+    "howItWorks": "How does it work?",
+    "howToSell": "How to sell?",
+    "aboutUs": "About us",
+    "legal": "Legal",
+    "faq": "FAQ",
+    "logout": "Log out",
+    "login": "Login"
+},
+ "Footer": {
+    "aboutUs": "About us |",
+    "legal": "Terms and conditions |",
+    "privacyPolicy": "Privacy policy |",
+    "contactUs": "Contact us",
+    "copyright": "Copyright ALAKAVE. All rights reserved.",
+    "warning": "Alcohol abuse is dangerous for health. Consume with moderation."
+},
+"Root": {
+    "welcomeText": "Welcome to the first platform",
+    "highlightedText1": "private",
+    "descriptionText": "that allows selling and buying wines between individuals and professionals",
+    "highlightedText2": "exclusively through cooptation.",
+    "subTitle": "This site is reserved for big children passionate about fine bottles.",
+    "btn": "I am over 18 years old and I accept the terms and conditions."
+  }, 
+"Home": {
+    "headerTitle": "THE MOST BEAUTIFUL WINES OF OUR MEMBERS",
+    "noProductFound": "No Product Found",
+    "vintage": "BY VINTAGE",
+    "region": "BY REGION",
+    "userTitle": "Welcome to our new Members",
+    "slider": {
+        "content1": {
+            "title": "Welcome to Alakave.com",
+            "text": "Your brand new platform to buy and sell your wines among trusted members. Create your free account and have your wines delivered door to door, safely.",
+            "buttonText": "Create my free account"
+        },
+        "content2": {
+            "title": "Welcome to Alakave.com",
+            "text": "Your brand new platform to buy and sell your wines among trusted members. Create your free account and have your wines delivered door to door, safely.",
+            "buttonText": "Create my free account"
+        },
+        "content3": {
+            "title": "Trust? It's essential",
+            "text": "Welcome to alakave.com, the private circle of exceptional cellars. Here, we buy and sell wines from our cellar among friends, amateurs or enthusiasts, individuals or professionals, from cellar to cellar. We mainly buy and sell among members.",
+            "buttonText": "Create my free account"
+        }
+    },
+    "categories": {
+      "title": "Our Section",
+      "vintage": "By vintage",
+      "region": "By region",
+      "users": "Professional cellars",
+      "sponsors": "View members and find a sponsor"
+    },
+    "notFound": "No Product Found"
+
+},
+"AboutUs": {
+  "imageTxt": "If you have a nice bottle, need space, you can now put them alakave ! Other enthusiasts will no doubt enjoy them",
+  "upperSection": {
+    "content": "Did you know that more than 32 million French people love wine to the point of considering it a passion? Join the private circle of exceptional cellars and all its members for free and discover the treasures they keep in their cellars! We created this site to facilitate the buying and selling of wine bottles: Among individuals; Because we needed it, because our friends did too, because you too likely have a lovely bottle of wine you won't open, a vintage that seems too old, a grape variety you don't appreciate, an overly large stock... For professionals as well, who have a bottle here and there, stores closed by decree, restaurants whose bottles sleep in a corner... It is also evident for producers who keep some incredible vintages and lack space; they can now list them on alakave so that other enthusiasts will undoubtedly enjoy them... This marketplace project has been dear to us for several years. After a first beta version launched at the end of 2020, you now have an improved version in front of you, anchored on a referral system that allows all members to be sure of the origin of the wines they purchase."
+  },
+  "introSection": {
+    "title": "WHO ARE WE?",
+    "content": "Did you know that more than 32 million French people love wine to the point of considering it a passion? Join the private circle of exceptional cellars and all its members for free and discover the treasures they keep in their cellars! We created this site to facilitate the buying and selling of wine bottles: Among individuals; Because we needed it, because our friends did too, because you too likely have a lovely bottle of wine you won't open, a vintage that seems too old, a grape variety you don't appreciate, an overly large stock..."
+  },
+  "contentSections": {
+   "content1" : {
+      "title": "COURTESY & SHARING",
+      "content": "We created this site for everyone's enjoyment. Its practical, unique, and friendly nature requires a mutual commitment to courtesy and sharing. Here, we communicate in trust and follow the usual rules of courtesy. Because this service was designed so that everyone could find treasures easily and in a good mood, we will not hesitate to exclude anyone whose comments are not courteous and kind. No excuses. At alakave, we offer you a one-of-a-kind experience, based on a cooptation system. You are invited and, in turn, invite friends you trust and whose behavior you can vouch for. Why? Because no one can stand aggressions, bad faith, or questionable behavior anymore. So yes, it may seem a bit closed as a solution, but at least we secure our relationships. Humor, sharing, knowledge, and kindness are the customary rules of usage here, which you can find codes for. Feel free to report any discourteous behavior or problematic ad at any time. Do it. Your participation is also a guarantee of a platform that works for the benefit of all."
+    },
+  "content2" :  {
+      "title": "TRANSPARENCY & HONESTY",
+      "content": "Selling a bottle of wine also means having doubts. Sometimes we are not quite sure about the quality of the juice, the way a bottle was preserved. Be fair, say it, be careful about the prices you ask. No one is safe from selling or buying a corked wine, for example. This happens in the best wine merchants, in the best productions. These are things that happen and no one is responsible. If this happens to you, talk calmly with your interlocutor and try to find an amicable solution, together. It is equally important to explain where the bottle came from and how you stored it. On the other side of the screen there are men and women like you who do not want to regret this meeting, even virtual. They also go down alakave to get a bottle, they too are passionate. Get inspired by our guide to know the best vintages by region. Do not hesitate to offer batches of three bottles if it allows to base the transport prices. Exchange with each other on the messaging, dialogue and above all do not cheat. We will not hesitate to exclude members who do not respect these codes of conduct. We close the account and let the whole community know. In addition, we are completely transparent with the legal authorities that request us"
+    },
+  "content3" :  {
+      "title": "ELEGANCE & GOOD MOOD",
+      "content": "Make pretty photos, take care of its presentation, its text, and tell the whole story of the treasure that you put alakave. Admit that everything is more pleasant with a smile, a beautiful story and outfit! Sellers, buyers, buyers: welcome to alakave.com. The site of crazy beautiful bottles in permanent search of treasures! You cannot imagine what we French keep so preciously in the cellar. This is where the vintages of his birthday, the year of your wedding, the birth of your child sleep... The leader of this project is not a wine expert, but a technophile, an e-marketer who listens to her friends and her best girlfriends! The experts are YOU, the members; No one will speak better than you of a wine that you have tasted with pleasure, and that you share today. Journalists, influencers, routers, potential partners .... Do you have an idea to share with us? Any comments? Do not hesitate to contact 'alaKave.com' team."
+    }
+  }
+},
+"HowItWorks": {
+  "title": "How it works?",
+  "content": "You will see it’s very simple. If you know how to sell a sweater, a bike or a car online then you know how to sell your bottles of wine. Here we give you above all the keys to a successful transaction, of which respect and courtesy are the keys.",
+  "sections": {
+  "section1" : {
+    "title": "CREATE YOUR ACCOUNT",
+    "content": "To create an account and become a member of ALAKAVE, you must be 18 of course, but also show how cool you are. You are asked to provide identification and to find three sponsors who are already members of ALAKAVE, then ask them to vouch for you. You can type their name in our data base or search for them on our Instagram and Facebook pages. Create your account",
+    "linkText": "CREATE YOUR ACCOUNT"
+  },
+ "section2" : {
+    "title": "TAKE GREAT PICTURES",
+    "content": "upload them to your account, taking care to describe with forecast everything you know about it (domain, AOC, region, vintage…) Indicate a price; You can help yourself with our Guide pages, but be careful to be reasonable! Your rate must be lower than those you find online or on our indicative engine. Otherwise, it won't sell.*It’s very easy with the app !",
+    "linkText": "Download the app"
+  },
+ "section3" : {
+    "title": "IT'S SOLD? PACK VERY CAREFULLY!",
+    "content": "Well done, your bottle is sold and you received a transport label issued by our partner after email. You will need to glue it to the transport box, taking care to insert the second flap inside. If you are lost, we will find you. bottle should not break during transportation.",
+    "linkText": "See our recommendations."
+  },
+ "section4" : {
+    "title": "YOUR BOTTLE CAN TRAVEL",
+    "content": "You will entrust it to Chono Viti: the transport is from door to door. With Relais PickUp, you drop off your well-packaged bottle at a point of sale or locker near you. It will be deposited where the buyer chooses. Colissimo offers standard shipping and Chronopost delivers express.",
+    "linkText": "See the Terms and Conditions of our partners."
+  },
+ "section5" : {
+    "title": "WAITING FOR DELIVERY",
+    "content": "When the buyer confirmed his purchase, he also paid online (the bottle, transportation, the buyer protection and service fees). This amount is reserved within our banking partners solutions. Upon receipt of the package, he receives an email inviting him to confirm that everything went well. By clicking on Everything is OK, the buyer also unlocks the transfer of the amount of the sale to your account. Meanwhile, you can sell more wines !",
+    "linkText": "Sell a bottle !"
+  },
+ "section6" : {
+    "title": "RATE YOUR EXPERIENCE",
+    "content": "Your opinion counts a lot, so please consider leaving a review.They are the reflection of your experience with other members. They also allow members to improve. Be courteous and show indulgence. To err is human and in the event of disagreement, prefer dialogue via private messaging. Don’t forget he’s rating you too and you’re better of finding solutions rather than harassing… You can also sponsor your new friend! Find sponsors.",
+    "linkText": "Find a sponsor"
+
+  }
+}
+}, 
+"howToSell": {
+  "title": "How to sell",
+  "subtitle": "You will see it’s very simple. If you know how to sell a sweater, a bike or a car online then you know how to sell your bottles of wine. Here we give you above all the keys to a successful transaction, of which respect and courtesy are the keys.",
+  "subTitle2": "As soon as you receive your bottles of wine, we recommend that you check the following points",
+  "sections": {
+   "section1": {
+      "title": "GETTING WELL ORGANIZED IS ESSENTIAL:",
+      "content": "In your account, you have a cellar with a K! You will find all your announcements there at a glance. This Kave allows you to offer group sales of several bottles. This allows the buyer to save a little on delivery prices. On each ad, be as specific as possible by clearly indicating the name, appellation, vintage and history of each of the bottles you have chosen to put up for sale. You will also be able to respond to all your messages by replying for each wine on sale directly from your account"
+    },
+   "section2": {
+      "title": "THE PRICE",
+      "content": "Finding the right price is not such a complicated matter. Idealwine and Wine-searcher are the leading auction sites that we recommend to evaluate the price of your bottle. They charge on average 25.2% including VAT (21% excluding VAT) on your wines put up for auction and appraise your bottles themselves before putting them up for sale at auction. To sell your ALAKAVE wines, browse two or three retail sites, check the information for consistency and get an average. Deduct 4 to 6 Euros which correspond to the transport and service costs of your platform. Your bottle will sell very quickly"
+    },
+   "section3": {
+      "title": "TRANSPORT",
+      "content": "We are still far from a full delivery service, but thanks to platforms like Vinted, carriers now offer very effective solutions. We have chosen to team up with Le Groupe La Poste, DPD. Chronopost Viti allows you to ship your wine by express in France and internationally, between individuals. On our territory, packages are delivered according to the delivery times chosen, the next day before 1 p.m. or before 10 a.m. Chronopost has developed a range of packaging that is simple and quick to assemble, secure, easy to handle and suitable for 75 cl and 150 cl bottles and available for 1, 2, 3, 6 bottles and magnums."
+    },
+   "section4": {
+      "title": "IS MY WINE STILL DRINKABLE?",
+      "content": {
+       "title": "Georges Dos Santos, master wine merchant from Lyon at Antic Wine since 2001, estimates that a wine is old from 30 to 40 years. In reality, a wine does not age, it transforms. And if it risks the slightest wear then it will be because of the cap? This is why they are replaced on certain great wines, approximately every 10 years.",
+        "1": "Take a good look at the neck of your bottle against the light and check the condition of the neck",
+        "2": "In the neck (perfect): normal level for wines less than 15 years old and exceptional for those aged 20 years",
+        "3": "Low neck level: it is perfect for all wines over 20 years old, acceptable for those over 15 years old",
+        "4": "Very slightly low level: it is perfect for 40 year old wines, normal for 30 year old wines",
+       "5": "High shoulder level: normal level for wines aged 40 years, exceptional for those before 1960",
+       "6": "Mid-shoulder level: this level reveals a weakness of the cap and generates some risks. It is still more than acceptable for wines from before 1960.",
+        "7": "Lower shoulder: it represents risks. It may be acceptable for wines from before 1950"
+      }
+    },
+   "section5": {
+      "title": "CHECK STORAGE CONDITIONS",
+      "content": "Before reserving a wine in the cellar, make sure that the storage conditions are optimal. Wines must be stored at a stable temperature between 10 and 15 degrees Celsius, in a dark place without vibrations. Relative humidity should also be maintained between 60 and 80%."
+    },
+   "section6": {
+      "title": "POSITION THE BOTTLES CORRECTLY",
+      "content": "The bottles must be stored horizontally in order to keep the cork moist and to allow good preservation of the wine. It is also important not to stir wine bottles, as this can disrupt the natural deposit that forms in wine bottles that have aged."
+    },
+   "section7": {
+      "title": "LABEL THE BOTTLES",
+      "content": "To facilitate the identification and tracking of your wines in the cellar, it is recommended to label the bottles with information such as the vintage, the producer, the grape variety and the date of purchase."
+    }
+  }
+},
+"faq" : {
+  "title": "Frequently Asked Questions",
+  "summary": "Many questions were answered during the production of ALAKAVE. All the answers are here...",
+  "img": {
+    "title": "SELL YOUR WINE BOTTLES",
+    "content": "Sell your wine bottles and build your wine cellar with the wonders you'll find in private cellars. Thousands of us keep wine bottles. Sell them and buy other wines you'll enjoy tasting."
+  },
+  "welcome": {
+    "title": "WELCOME TO ALAKAVE",
+    "content": "Welcome to ALAKAVE.com, the private circle of these exceptional cellars. Our members buy and sell wines from their private cellars among trusted wine lovers only. We created this site to allow each other, producers or amateurs to buy or sell the hidden, the unsold, to find an anniversary vintage or any bottle that can only be found in other members private or professional cellars... Search, discuss, click and have your bottles are delivered at home!"
+  },
+  "question": {
+   "1" : {
+      "title": "TRUST AND TRANSPARENCY",
+      "content": "<p><b>A private circle for security and conviviality:</b> <br /> ALAKAVE is a marketplace strictly reserved to members sponsored by three other members, who themselves already have three sponsors. It is also a state of mind which has many advantages and which creates a solid and engaged community. By setting the condition of having three sponsors to join the site, ALAKAVE trusts a powerful recommendation system, strengthens the links between its members and targets an enriching online experience for all. <br/> <br/> <b>The advantages of friendly and secure interpersonal relationships:</b> <br />  By requiring three sponsors to become a member, ALAKAVE promotes the creation of links between users. Each member is encouraged to recommend people they trust and are likely to share their passion for quality wine, which contributes to forming a strong and cohesive community. </p>"
+    },
+   "2" : {
+      "id": 2,
+      "title": "WHO ARE THE SPONSORS?",
+      "content": "<p><b>Encouraging active involvement:</b> Sponsorship is also a responsibility for current members. It is a reciprocal moral commitment that establishes a relationship of trust. On ALAKAVE, sponsors and sponsored can be sanctioned or excluded from our platform in the event of inconvenient behavior. This limits scams, rudeness, lack of transparency, and of course, reassures us all. <br/> <br/><b>Quality and security filter:</b> Our sponsorship system also reinforces a certain selection of our members. Indeed, sponsors, knowing the values and objectives of the site, will tend to sponsor individuals likely to contribute positively to the life of ALAKAVE as well as to the quality of the bottles of wine found there. Our site thus limits the risks of inappropriate behavior, spam or harmful content. This selection at the entrance also makes it possible to preserve a benevolent and respectful atmosphere.  </p>"
+    },
+   "3" : {
+      "id": 3,
+      "title": "TRANSPORT AND SECURITY",
+      "content": "<p><b>Packaging: the guarantee of a successful sale!</b></p> <br/> <p>Please be careful, these are not empty words! You must take care to pack your wine with the greatest care otherwise and in case of problem, our transportation partners won’t be able to help.  </p> <br/> <p>When shipping a bottle, we recommend wrapping it with at least one layer of bubble wrap or foam board. Put it in the resized box and fill the empty space with curling or an air cushion. Your bottle must be protected from shocks and knocks. Remember that your packages, although transported by professionals, remain very fragile. Be paranoid: Pack your bottles so that they resist everything... </p> <br/> <p><b>ATTENTION, OBVIOUSLY YOUR BOTTLE WILL NOT BE INSURED IF IT IS NOT WELL PACKED</b></p>"
+    },
+   "4" : {
+      "id": 4,
+      "title": "YOUR SECURE WALLET",
+      "content": "We have chosen to use Mangopay payment solutions. MANGOPAY is the payment solution developed by Leetchi for marketplaces like ours. It makes it possible to accept online payments (by card, bank transfer, direct debit, etc.), to reserve funds on behalf of buyers and to automate payment flows. Thus, the seller is only paid when the buyer has received the bottle(s) of wine he has purchased! Obviously this solution costs us a little. This is why for each transaction, ALAKAVE re-invoices you for these service and buyer protection fees."
+    },
+   "5" : {
+      "id": 5,
+      "title": "EWHAT IF A BOTTLE IS CORKED? ",
+      "content": "<p>If the wine seems bland to you and you find aromas of mushrooms and musty, it means that it is corked. A total absence of acidity is also characteristic of a lack of freshness. Or, an unpleasant nutty or cider taste will mean that the wine has undergone too much oxidation during its aging process. And obviously, the wine is no longer good if it tastes like Madeira, a rancid taste.</p><br/><p>It may seem surprising that wine is no exception in terms of consumer rights. It is indeed considered a `product`, so there may be a need for `repair`. The problem is that after opening, it’s quite delicate!</p> <br/> <p>It is difficult to know if a wine is objectively corked or simply disappointing. Whether you buy wine from a winegrower, a merchant or a restaurant, the behaviour to adopt is a mixture of common sense and diplomacy.</p> <br/> <p>Without a commercial invoice, the 'legal guarantee for lack of conformity' on which one would rely to return a washing machine to the merchant, is difficult to invoke.</p> <br/><p>On ALAKAVE, we are among trusted members. Prioritize dialogue. Speak with the seller, and seek an amicable solution. Why have enemies when you can makemeet new friends?</p> "
+    },
+    "6" :{
+      "id": 6,
+      "title": "PROFESSIONALS ON ALAKAVE? ",
+      "content": "<p>Yes, of course it is possible. A professional always needs to make room for the next vintage. He may also, like you and I, want or need to bring some life to his cellar, to sell a wine to afford something else, a vintage he believes in, a grape variety he doesn't have...</p> <br/><p>For professionals, distribution is sacred. Under no circumstances will it jeopardize its good commercial relations with its traders or distributors, its producers, or restaurateurs...</p> <br/> <p>Trusting and comparing is the best thing to do.</p> <br/> <p>In addition, professionals must imperatively think about including VAT in their selling price. As they are pros, they are of course required to declare it.</p> <br/> <p>ALAKAVE, your private marketplace is not responsible for the content of the ads. Do not hesitate to consult our legal notices.</p>"
+    }
+  },
+  "partner": "OUR PARTNER T&C",
+  "footer": {
+    "card1": {
+      "title": "SELL YOUR BOTTLES OF WINE",
+      "content": "Start selling your bottles of wine now and build your wine cellar ? You can buy amazing wines from private cellars. We are thousands to keep bottles of wine. Sell them and buy other wines that you will enjoy tasting with your friends and family."
+    },
+    "card2": {
+      "title": "SELL AND SEND EASILY",
+      "content": "We have used the best delivery solutions such as major retail sites between individuals. As soon as it's sold, pack your bottle carefully, print your packing slip, and follow the router's instructions. It's really easy!"
+    },
+    "card3": {
+      "title": "THERE ARE NO SELLING FEES",
+      "content": "There are no selling fees, what you sell goes into your wallet. As soon as the buyer has validated receipt of the bottle, the money from the sale is transferred to your account. Make sure your price is a attractive !"
+    },
+    "link": "Sell Your Wine",
+    "text": "Make sure your price is attractive !"
+  }
+
+},
+"contactUs": {
+    "title": "Write to us",
+    "form": {
+      "fname": "First Name",
+      "lname": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "user_type_ph": "I AM",
+      "user_types": {
+        "fin_partner": "A financial partner",
+        "press": "Press",
+        "tech_prod_partner": "Technical, product, or operations partner (Expert and professionals of wine, complementary websites, transport solutions, etc...)",
+        "user_problem": "A user with a problem",
+        "user_compliments": "A user with compliments"
+      },
+      "comment_ph": "What's on your mind?",
+      "submit_btn": "Submit"
+    },
+    "thank_you": "Thank you for contacting us! We have received your message and will get back to you as soon as possible. Your thoughts and questions are important to us."
+  },
+"login": {
+  "signInTitle": "Sign in to ALAKAVE",
+  "promptText": "Please enter your email address to begin.",
+  "emailPlaceholder": "Email",
+  "passwordPlaceholder": "Enter your password",
+  "rememberPasswordText": "Remember password",
+  "forgotPasswordText": "Forgot password? Reset it",
+  "loginButtonText": "Login",
+  "noAccountText": "Don't have an account?",
+  "registerLinkText": "Sign up"
+},
+"register": {
+  "title": "Create Your Member Account",
+  "welcome": "Welcome to ALAKAVE! You are about to become a member of the first private circle of exceptional cellars",
+  "form": {
+    "fname": "First Name",
+    "lname": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "photo_upload": "Drag and drop your profile photo or click to select",
+    "dob": "Date of Birth",
+    "pass": "Password",
+    "confirm_pass": "Confirm Password",
+    "prof_label": "Are you a professional seller?",
+    "prof_options": {
+      "yes": "Yes",
+      "no": "No"
+    },
+    "terms_label": "By continuing, you accept our",
+    "and": "and",
+    "term": "General Terms",
+    "policy": "Privacy Policy",
+    "submit_btn": "Sign Up",
+    "has_account": "Already have an account?",
+    "login_link": "Log In"
+  }
+},
+"addProduct": {
+  "title": "Sell your item",
+  "form": {
+    "title": "Title",
+    "description": "Describe your item",
+    "vintage": "Vintage",
+    "region": "Region",
+    "price": "Price",
+    "quantity": "Quantity",
+    "storage_location": "Select a storage location",
+    "crd_capsule": "CRD Capsule:",
+    "yes": "Yes",
+    "no": "No",
+    "wax": "Wax",
+    "too_old": "Too old",
+    "type_of_wine": "Type of wine",
+    "organic_wine": "Organic Wine",
+    "biodynamic_wine": "Biodynamic Wine",
+    "natural_wine": "Natural Wine",
+    "kosher_wine": "Kosher Wine",
+    "add_bottle": "Add a new bottle",
+    "drop_files_here": "Drop files here...",
+    "drag_drop_select": "Drag and drop your product photos, or click to select"
+  }
+},
+"productChat": {
+  "buyNow": "Buy now", 
+  "offer": "Make on offer",
+  "added": "Added on",
+  "soldBy": "Sold by",
+  "typeMessage": "Type your message..."
+},
+"accountSidebar": {
+  "myAccount": "My account",
+  "message": "Messages",
+  "order": "My Kave",
+  "sponsor": "My friends and my reviews",
+  "trackOrder": "Order tracking",
+  "wallet": "My wallet",
+  "logOut": "Log out"
+},
+"wallet": {
+  "title": "My Wallet",
+  "available": "Available Balance",
+  "pending": "Pending Amount",
+  "dialogTrigger": "Add Money",
+  "dialogTitle": "Add Money to Your Wallet",
+  "dialogDescription": {
+    "enterAmount": "Enter the amount",
+    "addBalanceButton": "Add Money to Balance"
+  }
+},
+"myAccount": {
+    "userType": "PRO",
+    "gotSponsor": "Sponsors",
+    "gaveSponsor": "Sponsored members",
+    "memberSince": "Member since",
+    "aboutYou": "About you",
+    "addAddress": "Add delivery address",
+    "notFoundAddress": "Address not found",
+    "paymentMethods": "Payment methods",
+    "notFoundCard": "Card not found",
+    "professionalTitle": "Required information to use professional services",
+    "companyName": "COMPANY NAME",
+    "siretNumber": "SIRET NUMBER",
+    "proof": "Please upload your proof (KBIS - 3 months)",
+    "directDelivery": "Do you have your own delivery solution?",
+    "preferenceTitle": "Preferences and privacy settings:",
+    "notificationsEmail": "ALAKAVE email notifications",
+    "accountActivityAlerts": "Alerts regarding account activities (messages, sponsorships, sales, etc.)",
+    "marketingPromotion": "I allow ALAKAVE to share ads and promote my bottles online and/or for marketing purposes",
+    "favoritesNotification": "I allow ALAKAVE to send notifications to members whose items I have favorited",
+    "personalizedContent": "Allow ALAKAVE to personalize my news feed and search results by evaluating my preferences, settings, previous purchases, and use of the Vinted website and app",
+    "verifiedInfo": "Verified information",
+    "email": "Email",
+    "phone": "Mobile phone number",
+    "idProof": "Official ID (passport, ID card, or driver's license)",
+    "passwordChange": "Change password?",
+    "sponsorshipRequests": "Sponsorship requests",
+    "noRequest": "No request",
+    "selfDelivery": "Do you deliver yourself?",
+    "close": "Close",
+    "saveInfo": "Save information",
+    "editProfile": "Edit profile",
+    "editProfileDetails": "Edit your profile details",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Phone",
+    "dateOfBirth": "Date of birth",
+    "details": "Write about yourself",
+    "closeButton": "Close",
+    "updateProfile": "Update profile",
+    "addPaymentMethod": "Add new payment method",
+    "yes": "Yes",
+    "no": "No",
+    "update": "Save",
+    "card": {
+    "title": "Add a new payment method",
+    "cardNumber": "Card number",
+    "date": "Month/Year",
+    "CVV": "CVV code"
+    },
+    "address": {
+    "dialogTitle": "New Shipping Address",
+    "form": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "phone": "Phone",
+        "alternativePhone": "Alternative Phone",
+        "address1": "Address (line 1)",
+        "address2": "Address (line 2)",
+        "landmark": "Landmark",
+        "city": "City",
+        "zipCode": "Postal Code"
+      },
+    "buttonSubmit": "Save Address"
+    },
+    "accepted": "accepté",
+    "pending": "pending",
+    "denied": "denied"
+  },
+ "order": {
+    "tab1": "Online",
+    "tab2": "Bottles Sold",
+    "tab3": "Bottles Bought",
+    "tab4": "My Favorites",
+    "headers": {
+        "title": "Add a Bottle",
+        "bottles": "Bottles",
+        "price": "Price €",
+        "quantity": "Quantity",
+        "region": "Storage Location",
+        "crdCapsule": "CRD Capsule"
+    }
+},
+"product": {
+  "table": {
+    "vintage": "Vintage",
+    "region": "Region",
+    "quantity": "Qty",
+    "storage": "Storage location",
+    "crdCapsule": "CRD Capsule",
+    "views": "Views",
+    "wishList": "Added to wishlist",
+    "added": "Added on"
+  },
+  "about": "About this bottle",
+  "payment": "Buy",
+   "chat": "Make an offer",
+   "similar": "Similar items"
+},
+"payment": {
+    "title": "Payment",
+    "address": {
+      "title": "Delivery Address",
+      "notFound": "Address Not Found"
+    },
+    "card": {
+      "title": "Card Payment",
+      "notFound": "No Card Found"
+    },
+    "wallet": {
+      "title": "Wallet Payment",
+      "name": "Wallet",
+      "balance": "Balance",
+      "notFound": "No Wallet Found"
+    },
+    "shipping": {
+    "service": {
+      "title": "Service Offerings",
+      "placeholder": "Select Service",
+      "label1": "Chrono13 toC (Home domestic delivery)",
+      "option1": "Weekday delivery",
+      "option2": "Saturday delivery",
+      "label2": "Chrono13 Relais (Pudo store delivery)"
+    }
+  },
+  "order": {
+    "title": "Order Details",
+    "subTotal": "Item Subtotal",
+    "fee": "Service Fee (12%)",
+    "delivery": "Chronopost Delivery Charge",
+    "total": "Total",
+    "checkout": "Checkout"
+  }
+
+  },
+  "seller": {
+    "verified": "Verified User",
+    "professional": "Professional Seller",
+    "date": "Member Since",
+    "about": "ABOUT",
+    "productTitle": "Adds"
+  },
+  "trackOrder": {
+    "title": "Tracking Number",
+    "btnText": "Track",
+    "label": "Enter the tracking number"
+  },
+  "legal": {
+    "title": "Legal notices and general terms of use.",
+    "partner": "OUR PARTNER TERMS AND CONDITIONS",
+    "cards": {
+        "card1": {
+            "title": "Legal",
+            "description": "Do you like this project? We are looking for very specific partners. If you think you can make a real contribution to the alcans, feel free to contact us.",
+            "linkText": "Contact"
+        },
+        "card2": {
+            "title": "Who are we?",
+            "description": "We are the meeting of experienced amateur winegrowers, respectful of tradition and quality, and passionate about technology and innovation.",
+            "linkText": "WHO ARE WE?"
+        },
+        "card3": {
+            "title": "I really need help",
+            "description": "Our team is still very small, but will do its best to help you.",
+            "linkText": "Contact"
+        }
+    }
+  }
+
+
+
+
+
+
+
+}

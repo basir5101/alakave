@@ -1,0 +1,533 @@
+{
+  "Navbar": {
+    "search": "Rechercher des bouteilles",
+    "register": "S'inscrire",
+    "login": "Se Connecter",
+    "sell": "Vendre une bouteille",
+    "menu1": "Mon compte",
+    "menu2": "Messages",
+    "menu3": "Ma Kave",
+    "menu4": "Mes amis et mes avis",
+    "menu5": "Suivi de commande",
+    "menu6": "Mon portefeuille"
+  },
+  "SideMenu": {
+    "account": "Mon compte",
+    "wineGuide": "Guide des vins",
+    "howItWorks": "Comment ça marche ?",
+    "howToSell": "Comment vendre ?",
+    "aboutUs": "À propos de nous",
+    "legal": "Légal",
+    "faq": "FAQ",
+    "logout": "Se déconnecter",
+    "login": "Login"
+  },
+  "Footer": {
+    "aboutUs": "À propos de nous |",
+    "legal": "Conditions générales |",
+    "privacyPolicy": "Politique de confidentialité |",
+    "contactUs": "Contacts",
+    "copyright": "Copyright ALAKAVE. Tous droits réservés.",
+    "warning": "L'abus d'alcool est dangereux pour la santé. Sachez consommer avec modération."
+  },
+  "Root": {
+    "welcomeText":"Bienvenus sur la première plateforme",
+    "highlightedText1":"privée",
+    "descriptionText": "qui permet de vendre et d'acheter des vins entre particuliers et professionnels",
+    "highlightedText2": "uniquement par cooptation.",
+    "subTitle": "Ce site est réservé aux grands enfants passionnés de belles bouteilles.",
+    "btn": "J’ai plus de 18 ans et j’accepte les CGV."
+  },
+  "Home": {
+    "headerTitle": "LES PLUS BEAUX VINS DE NOS MEMBRES",
+    "noProductFound": "Aucun produit trouvé",
+    "vintage": "PAR MILLÉSIME",
+    "userTitle": "Bienvenue à nos nouveaux membres",
+    "region": "PAR RÉGION",
+    "slider": {
+      "content1": {
+        "title": "Bienvenue Alakave.com",
+        "text": "votre toute nouvelle plateforme pour acheter et vendre vos vins entre membres de confiance. Créez votre compte gratuitement et faites livrer vos vins de porte à porte, en toute sécurité.",
+        "buttonText": "Créer mon compte gratuit"
+      },
+      "content2": {
+        "title": "Bienvenue Alakave.com",
+        "text": "votre toute nouvelle plateforme pour acheter et vendre vos vins entre membres de confiance. Créez votre compte gratuitement et faites livrer vos vins de porte à porte, en toute sécurité.",
+        "buttonText": "Créer mon compte gratuit"
+      },
+      "content3": {
+        "title": "La confiance ? C'est essentiel",
+        "text": "Bienvenus sur alakave.com, le cercle privé des caves d'exception. Ici, on achète et on vend les vins de notre cave de entre amis, entre amateurs ou passionnés, entre particuliers ou professionnels, de cave à cave… On achète et on vend surtout entre membre",
+        "buttonText": "Créer mon compte gratuit"
+      }
+    },
+    "categories": {
+      "title": "Notre section",
+      "vintage": "Par millesime",
+      "region": "Par region",
+      "users": "Caves de professionnels",
+      "sponsors": "Voir les membres et touver un parrain"
+    },
+    "notFound": "Produit non trouvé"
+  },
+ 
+"AboutUs": {
+  "imageTxt": "Parce qu’on en avait besoin, parce que nos amis aussi, parce que vous aussi vous avez sans doute une jolie bouteille de vin que vous n’ouvrirez pas, un millésime qui paraît trop vieux, un cépage que vous n’appréciez pas, un stock trop volumineux…",
+  "upperSection": {
+    "content": "Saviez-vous que nous somme plus de 32 Millions de Français à aimer le vin au point de le considérer comme une passion ? Rejoignez gratuitement le cercle privé des caves d’exception et tous ses membres et découvrez les trésors qu’ils gardent dans leurs caves ! Nous avons créé ce site pour faciliter les achats et vente de bouteilles de vin : Entre particuliers ; Parce qu’on en avait besoin, parce que nos amis aussi, par ce que vous aussi vous avez sans doute une jolie bouteille de vin que vous n’ouvrirez pas, un millésime qui parait trop vieux, un cépage que vous n’appréciez pas, un stock trop volumineux… Pour les pressionnels aussi, qui ont une bouteille par-ci par-là, des magasins fermés par décret, des restaurants dont les bouteilles dorment dans un coin… Une évidence aussi pour les producteurs qui gardent quelques millésimes incroyables et manquent de place; ils peuvent désormais les mettre alakave pour que d’autres passionnés en profiteront sans aucun doute... Ce projet de marketplace nous tient à cœur depuis plusieurs années. Après une première version Beta lancée fin 2020, vous avez sous les yeux la version améliorée, ancrée sur un système de parrainage qui permet à tous les membres d’être sûrs de la provenance des vins qu’ils achètent.."
+  },
+  "introSection": {
+    "title": "QUI SOMMES-NOUS ?",
+    "content": "Saviez-vous que nous sommes plus de 32 Millions de Français à aimer le vin au point de le considérer comme une passion ? Rejoignez gratuitement le cercle privé des caves d’exception et tous ses membres et découvrez les trésors qu’ils gardent dans leurs caves ! Nous avons créé ce site pour faciliter les achats et vente de bouteilles de vin : Entre particuliers ; Parce qu’on en avait besoin, parce que nos amis aussi, parce que vous aussi vous avez sans doute une jolie bouteille de vin que vous n’ouvrirez pas, un millésime qui paraît trop vieux, un cépage que vous n’appréciez pas, un stock trop volumineux..."
+  },
+  "contentSections": {
+   "content1" :  {
+      "title": "COURTOISIE & PARTAGE",
+      "content": "Nous avons créé ce site pour le plaisir de tous. Son caractère pratique, unique et convivial nécessite un engagement mutuel à la courtoisie et Nous avons crée ce site pour le Plaisir de tous. Son aspect pratique, inédit et convivial se traduit obligatoirement par un engament réciproque de courtoisie et de partage. Ici, on dialogue en confiance et dans les règles d’usage de courtoisie. Parce que ce service a été conçu pour que chacun y trouve des merveilles simplement et dans la bonne humeur, nous n’hésiterons pas à exclure toute personne dont les propos ne seront pas courtois et bienveillants. Aucune excuse. Alakave, on vous propose une expérience unique en son genre, qui repose un principe de cooptation. Vous êtes invité et invitez à votre tour des amis sont vous êtes prêches et dont vous cautionnez le comportement. Pourquoi ? parce que plus personne ne supporte les agressions, la mauvaise foi et les comportements douteux. Alors oui c’est vrai ca peut paraitre un peu fermé comme solution mais au moins on sécurise nos relations. Humour, partage, connaissance et bienveillance sont ici les règles d’usage dont vous pourrez trouver les codes ici. Vous pouvez nous signaler à tout moment un comportement discourtois, une annonce litigieuse. Faites-le. Votre participation est aussi le gage d’une plateforme qui fonctionne pour le bien de tous."
+    },
+  "content2" :   {
+      "title": "TRANSPARENCE ET HONNÊTETÉx",
+      "content": "Vendre une bouteille de vin c’est aussi avoir des doutes. Parfois, on n’est pas tout à fait sur de la qualité du jus, de la façon une bouteille a été conservée. Soyez juste, dites-le, faites attention aux prix que vous demandez. Personne n’est à l’abri de vendre ou d’acheter un vin bouchonné par exemple. Cela arrive chez les meilleurs cavistes, dans les meilleures productions. Ce sont des choses qui arrivent et personne n’est responsable. Si cela vous arrive, parlez-en calmement avec vitre interlocuteur et tentez de trouver une solution amiable, ensemble. C’est tout aussi important de bien expliquer d’où vient la bouteille et comment vous l’avez conservée. De l’autre côté de l’écran il y a des hommes et des femmes comme vous qui n’ont pas envie de regretter cette rencontre, même virtuelle. Eux aussi descendent alakave chercher une bouteille, eux aussi sont passionnés. Inspirez-vous de notre guide pour connaitre les meilleurs millésimes par région. N’hésitez pas à proposer des lots de trois bouteilles si ça permet de faire basiser les prix de transport. Echangez entre vous sur la messagerie, dialoguez et surtout ne trichons pas. Nous n’hésiterons pas à exclure les membres qui ne respectent pas ces codes de bonne conduite. Nous fermons le compte et nous le faisons savoir a toute la communauté. En outre, nous sommes totalement transparents avec les instances légales qui nous sollicitent."
+    },
+  "content3" :   {
+      "title": "ÉLÉGANCE & BONNE HUMEUR",
+      "content": "Faire de jolies photos, soigner sa présentation, son texte, et raconter toute l’histoire du trésor que vous mettez alakave. Avouez que tout est plus agréable avec le sourire, une belle histoire et de la tenue ! Vendeurs, vendeuses, acheteuses, acheteurs : bienvenus sur alakave.com. Le site des fous de belles bouteilles à la recherche permanente de trésors ! Vous n’imaginez pas ce que nous Français, gardons si précieusement dans cave. C’est là que dorment les millésimes de son anniversaire, celui de l’année de votre mariage, de la naissance de votre enfant… La porteuse de ce projet n’est une experte de vins, mais une technophile, un e-marketeuse qui écoute ses amis et ses meilleures copines ! Les experts c’est VOUS, les membres ; Personne ne parlera mieux que vous d’un vin que vous avez dégusté avec plaisir, et qu’aujourd’hui, vous partagez.Journalistes, influenceurs, routeurs, partenaires potentiels …. Vous avez une idée à partager avec nous ? Une remarque? N’hésitez pas à contacter l’équipe alaKave.com. Contactez-nous"
+    }
+  }
+},
+"HowItWorks": {
+  "title": "Comment ça fonctionne?",
+  "content": "Vous verrez c’est très simple. Si vous savez vendre un pull, un vélo ou une voiture en ligne, alors vous savez vendre vos bouteilles de vin. Nous vous donnons ici avant tout les clés d'une transaction réussie, dont le respect et la courtoisie sont les clés.",
+  "sections": {
+  "section1" : {
+    "title": "Créez votre compte",
+    "content": "Pour créer un compte et devenir membre d'ALAKAVE, il faut être majeur bien sûr, mais aussi montrer patte blanche. On vous demande une pièce d'identité et de trouver trois parrains déjà membres d'ALAKAVE pour se porter garant de vous. Vous pouvez taper leur nom dans la base ou encore mieux les chercher sur nos Instagram et Facebook pages. Créez votre compte.",
+    "linkText": "Créez votre compte"
+  },
+ "section2" : {
+    "title": "Votre bouteille peut voyager",
+    "content": "Faites de belles photos, sur fond blanc ! La bouteille de vin en entier, l’étiquette bien visible, le col de la bouteille et même le cul de la bouteille ☺ Vous pouvez poster 5 photos et on vous recommande de les utiliser pour montrer que c’est bien votre bouteille… Attention, ici on vérifie les annonces, et le moteur n’aime pas du tout les duplicatas.",
+    "linkText": "Voir les CGU et CGV de nos partenaires."
+  },
+ "section3" : {
+    "title": "Faites de belles photos",
+    "content": "Bravo votre bouteille est vendue et vous avez reçu par mail une étiquette de transport éditée par notre partenaire. Il faudra bien la coller sur la boîte de transport en prenant soin d’insérer le deuxième volet à l’intérieur. En cas de perte, on saura vous retrouver. La bouteille ne doit pas se casser pendant le transport.",
+    "linkText": "Voir nos recommandations."
+  },
+ "section4" : {
+    "title": "En attendant la livraison",
+    "content": "Vous allez la confier à Chrono Viti : le transport se fait de porte à porte. Avec Relais PickUp, vous déposez votre bouteille bien emballée dans un point de vente ou consigne près de chez vous. Elle sera déposée là où l'acheteur aura choisi. Colissimo propose un envoi standard et Chronopost livre en express.",
+    "linkText": "Voir les CGU et CGV de nos partenaires."
+  },
+ "section5" : {
+    "title": "C’est vendu ? Emballez avec précaution !",
+    "content": "Lorsque l’acheteur a confirmé son achat, il a payé en ligne. Le montant de votre vente, le prix du transport et les frais de protection acheteur et de service sont aussi réservés chez notre partenaire bancaire. Dès réception du colis, il reçoit un mail l'invitant à confirmer que tout s'est bien passé. En cliquant sur 'Tout est OK', il débloque aussi le virement du montant de la vente sur votre compte. En attendant, vendez d'autres bouteilles !",
+    "linkText": "vendez d’autres bouteilles !"
+  },
+ "section6" : {
+    "title": "Votre avis compte beaucoup",
+    "content": "Pensez à laisser un avis. Ils sont le reflet de votre expérience avec les autres membres. Ils permettent aussi aux membres de s’améliorer. Soyez courtois et faites preuve d'indulgence. L'erreur est humaine et en cas de désaccord, préférez le dialogue via la messagerie privée. N'oubliez pas qu'il laisse aussi un avis. Faites-en plutôt votre ami !",
+    "linkText": "Trouvez un sponsor"
+
+  }
+}
+},
+"howToSell": {
+  "title": "Comment vendre ?",
+  "subtitle": "Vous verrez c’est très simple. Si vous savez vendre un pull, un vélo ou une voiture en ligne alors vous savez vendre vos bouteilles de vin. Nous vous donnons ici avant tout les clés d'une transaction réussie, dont le respect et la courtoisie sont les clés.",
+  "subTitle2": "Dès réception de vos bouteilles de vin, nous vous recommandons de vérifier les points suivants",
+  "sections": {
+   "section1": {
+      "title": "BIEN S'ORGANISER EST ESSENTIEL",
+      "content": "Dans votre compte, vous disposez d'une cave avec un K! Vous y trouverez toutes vos annonces en un clin d'œil. Cette Kave vous permet de proposer des ventes groupées soit plusieurs bouteilles. Cela permet à l'acheteur d'économiser un peu sur les prix de livraison. Sur chaque petite annonce, soyez le plus précis possible en indiquant clairement le nom, l'appellation, le millésime et l'histoire de chacune des bouteilles que vous aurez choisi de mettre à la vente. Vous pourrez aussi répondre à tous vos messages en répondant pour chaque vin en vente en direct depuis votre compte."
+    },
+   "section2": {
+      "title": "LE PRIX",
+      "content": "Trouver le bon prix n'est pas une affaire si compliquée. Idealwine et Wine-searcher sont les sites référents en matière d'enchères que nous vous recommandons pour évaluer le prix de votre bouteille. Ils facturent en moyenne 25.2% TTC (21% HT) sur vos vins mis aux enchères de vin et expertisent eux-mêmes vos bouteilles avant de les passer en vente aux enchères. Pour vendre vos vins ALAKAVE, parcourez deux ou trois sites de vente au détail, vérifiez la cohérence des informations et obtenez une moyenne. Défalquez 4 à 6 Euros qui correspondent au transport et aux frais de services de votre plateforme. Votre bouteille se vendra très vite."
+    },
+   "section3": {
+      "title": "LE TRANSPORT",
+      "content": "On est encore loin d'un full service de livraison mais grâce aux plateformes comme Vinted, les transporteurs proposent désormais des solutions très efficaces. Nous avons choisi de faire équipe avec le Groupe La Poste, DPD. Chronopost Viti permet d'expédier votre vin en express en France et à l'international, entre particuliers. Sur notre territoire, les colis sont livrés selon les délais d'acheminement choisis, le lendemain avant 13h ou avant 10h. Chronopost a développé une gamme d'emballages simples et rapides à monter, sécurisés, maniables et adaptés aux bouteilles de 75 cl et 150 cl et disponibles pour 1, 2, 3, 6 bouteilles et magnum."
+    },
+   "section4": {
+      "title": "EST-CE QUE MON VIN EST ENCORE BUVABLE ?",
+      "content": {
+       "title": "Georges Dos Santos, maître caviste Lyonnais chez Antic Wine depuis 2001, estime qu'un vin est vieux à partir de 30 à 40 ans. En réalité, un vin ne vieillit pas, il se transforme. Et s'il risque la moindre usure alors ce sera à cause du bouchon ? C'est pour cela qu'on les remplace d'ailleurs sur certains grands crus, environ tous les 10 ans.",
+        "1": "Regardez bien le goulot de votre bouteille à contrejour et vérifiez l'état du col.",
+        "2": "Niveau parfait : niveau normal pour les vins de moins de 15 ans et, exceptionnel pour ceux vieux de 20 ans.",
+        "3": "Niveau bas goulot : il est parfait pour les tous les vins de plus de 20 ans, acceptable pour ceux de plus de 20 ans.",
+        "4": "Niveau très légèrement bas : il est parfait pour les vins vieux de 40 ans, normal pour les vins de 30 ans.",
+       "5": "Niveau haut épaule : niveau normal pour les vins vieux de 40 ans, exceptionnel pour ceux d'avant 1960.",
+        "6": "Bas de l'épaule : il représente des risques. Il peut être acceptable pour des vins d'avant 1950.",
+        "7": "Niveau mi-épaule : ce niveau trahit une faiblesse du bouchon et engendre quelques risques. Il est tout de même plus qu'acceptable pour les vins d'avant 1960."
+      }
+    },
+   "section5": {
+      "title": "VÉRIFIER LES CONDITIONS DE STOCKAGE",
+      "content": "Avant de réserver un vin en cave, assurez-vous que les conditions de stockage sont optimales. Les vins doivent être conservés à une température stable entre 10 et 15 degrés Celsius, dans un endroit sombre et sans vibrations. L'humidité relative doit également être maintenue entre 60 et 80%."
+    },
+   "section6": {
+      "title": "POSITIONNER LES BOUTEILLES CORRECTEMENT",
+      "content": "Les bouteilles doivent être stockées horizontalement afin de maintenir le liège humide et de permettre une bonne conservation du vin. Il est également important de ne pas remuer les bouteilles de vin, car cela peut perturber le dépôt naturel qui se forme dans les bouteilles de vin qui ont vieilli."
+    },
+   "section7": {
+      "title": "ÉTIQUETER LES BOUTEILLES",
+      "content": "Pour faciliter l'identification et le suivi de vos vins en cave, il est recommandé d'étiqueter les bouteilles avec des informations telles que le millésime, le producteur, le cépage et la date d'achat."
+    }
+  }
+},
+"faq" : {
+  "title": "Questions fréquentes",
+  "summary": "Beaucoup de questions ont trouvé leur réponse pendant la production d’ALAKAVE. Toutes les réponses sont ici …",
+  "img": {
+    "title": "VENDEZ VOS BOUTEILLES DE VIN",
+    "content": "Vous êtes les tous premiers à découvrir ALAKAVE.com et ce site est sa première version. Étape par étape, vous découvrirez de nouvelles fonctionnalités et solutions. Merci de votre indulgence."
+  },
+  "welcome": {
+    "title": "Bienvenue sur ALAKAVE.com",
+    "content": "Bienvenue sur ALAKAVE.com, le cercle privé de ces caves d'exception. Nos membres achètent et vendent les vins de leurs caves privées uniquement auprès d'amateurs de confiance. Nous avons créé ce site pour permettre entre producteurs ou amateurs d'acheter ou de vendre les cachés, les invendus, de trouver un millésime anniversaire ou n'importe quelle bouteille que l'on ne trouve que dans les caves privées ou professionnelles des autres membres... Cherchez, discutez, cliquez et faites vous livrer vos bouteilles à domicile !"
+  },
+  "question": {
+   "1" : {
+      "title": "LA CONFIANCE ET LA TRANSPARENCE",
+      "content": "<p><strong>Un cercle prive pour la sécurité et la convivialité : ALAKAVE est site communautaire réservé aux membres parrainés par trois autres membres, disposant eux-mêmes déjà de trois parrains.</strong><br/><br/>C’est aussi un état d’esprit qui présente de nombreux avantages et qui la création d'une communauté solide et engagée. En fixant la condition d'avoir trois parrains pour rejoindre le site, ALAKAVE se dote d'un système de recommandation puissant, renforce les liens entre ses membres et garantit une expérience en ligne enrichissante pour tous.<br/><br/><strong>Les avantages de relations interpersonnelles sympathiques et sécurisantes:</strong> En exigeant trois parrains pour devenir membre, ALAKAVE favorise la création de liens entre les utilisateurs. Chaque membre est incité à recommander des personnes de confiance et susceptibles de partager sa passion pour le vin de qualité qui contribue à former une communauté solide et cohésive.</p>"
+    },
+   "2" : {
+      "id": 2,
+      "title": "QUI SONT LES PARRAINS",
+      "content": "<strong>Encouragement à l'engagement actif :</strong> Le parrainage c’est aussi une responsabilité pour les membres actuels. C’est un engagement moral réciproque qui permet d’établir une relation de confiance. Sur ALAKAVE, parrains et filleuls peuvent être sanctionnés ou exclus de notre plateforme en cas de mauvais comportement. On limite ainsi les arnaques, la grossièreté, le manque de transparence, et ça nous rassure tous.<br/><br/><strong>Filtre de qualité et sécurité :</strong> Notre système de parrainage renforce aussi une certaine sélection de nos membres. En effet, les parrains, connaissant les valeurs et les objectifs du site, auront tendance à parrainer des individus susceptibles de contribuer de manière positive à la vie d’ALAKAVE comme à la qualité des bouteilles de vin qu’on y trouve. Notre site limite ainsi les risques de comportements inappropriés, de spams ou de contenus nuisibles. Cette sélection à l'entrée permet également de préserver une atmosphère bienveillante et respectueuse."
+    },
+   "3" : {
+      "id": 3,
+      "title": "LE TRANSPORT ET LA SECURITÉ",
+      "content": "<strong>L’Emballage : le gage d’une vente qui se passe bien !</strong><br/><br/>Attention, ce ne sont pas des mots en l’air ! Vous devez impérativement prendre soin d’emballer votre vin avec la plus grande précaution !<br/><br/>Pour l'expédition d'une seule bouteille, nous vous recommandons de l'envelopper avec au moins une couche de papier bulle ou de carton mousse. Mettez-le dans la boîte redimensionnée et remplissez l'espace vide avec du curling ou un coussin d'air. Votre bouteille doit être à l’abri des chocs et des coups. N’oubliez pas que vos colis, bien que transportés par des professionnels restent très fragiles. Soyez paranos : Emballez vos bouteilles pour qu’elles résistent à tout … Nous cherchons un partenaire qui vous puisse vous fournir des boites de transport … ça vient ça vient !<br/><br/><span style='color:red; font-weight:bold' className='font-bold'>ATTENTION, EVIDEMENT VOTRE BOUTEILLE NE SERA PAS ASSUREE SI ELLE N’EST PAS BIEN EMBALEE</span>"
+    },
+   "4" : {
+      "id": 4,
+      "title": "VOTRE PORTEFEUILLE SÉCURISÉ",
+      "content": "Nous avons choisi d’utiliser la solutions de paiement Mangopay. MANGOPAY est la solution de paiement développée par Leetchi pour les marketplaces comme la nôtre. Elle permet d’accepter les paiements/versements en ligne (par carte, virement, prélèvement automatique…), de réserver les fonds pour compte des acheteurs et d’automatiser les flux de paiement. Ainsi, le vendeur n’est payé que lorsque l’acheteur aura reçu la ou les bouteilles de vin achetées ! Evidement cette solution nous coute un peu. C’est pourquoi à chaque transaction, ALAKAVE vous refacture ces frais de service et de protection des acheteurs."
+    },
+   "5" : {
+      "id": 5,
+      "title": "ET SI UNE BOUTEILLE EST BOUCHONNÉE ?",
+      "content": "Si le vin vous paraît fade et si vous retrouvez des arômes de champignon et de moisi, cela signifie qu'il est bouchonné. ne absence totale d'acidité est également caractéristique d'un défaut de fraîcheur. Ou encore, un goût désagréable de noix ou de cidre signifiera que le vin a subi une oxydation trop importante durant son processus de vieillissement. Et à l'évidence, le vin n'est plus bon s'il prend un goût de madère, un goût rance.<br/><br/>Il peut paraître surprenant que le vin ne fasse pas exception en termes de droit de consommation. Il est bien considéré comme un « produit », il peut donc y avoir un besoin de « réparation ». Le souci c’est qu’après ouverture, c’est assez délicat !<br/><br/>Difficile de savoir si un vin est objectivement bouchonné ou simplement décevant. Que vous achetiez du vin chez un vigneron, un négociant ou un restaurant, le comportement à adopter est un mélange de bon sens, de diplomatie.<br/><br/>Sans facture commerciale, la « garantie légale pour défaut de conformité » sur laquelle on s’appuierait pour un rendre un lave-linge au commerçant, est difficile à invoquer.<br/><br/>Sur ALAKAVE, nous sommes entre membres de confiance. Privilégiez le dialogue. Parlez-en avec le vendeur, et cherchez une solution amiable. Pourquoi se faire des ennemis quand on peut se faire des amis ?"
+    },
+    "6" :{
+      "id": 6,
+      "title": "LES PROFESSIONNELS SUR ALAKAVE ? MAIS ?",
+      "content": "<p>Mais oui, bien sûr que c’est possible. Un professionnel a toujours besoin de faire de la place pour la cuvée suivante. Il peut avoir aussi, comme vous et moi, envie ou besoin de faire tourner un peu sa cave, de vendre un vin de garde pour s’offrir autre chose, un millésime auquel il croit, un cépage qu’il n’a pas...<br/><br/>Chez un professionnel la distribution c’est sacré. En aucun cas il ne mettra ses bonnes relations commerciales en péril avec ses négociants ou distributeurs, ses producteurs, ou restaurateurs...<br/><br/>Faire confiance et comparer, c’est la meilleure chose à faire.<br/><br/>En outre, les professionnels doivent impérativement penser à intégrer la TVA dans leur prix de vente. Comme ils sont pros, ils sont bien surs tenus de la déclarer.<br/><br/>ALAKAVE, votre site de mise en relation être membres n’est pas responsable du contenus des annonces. N’hésitez pas consulter nos mentions légales.</p>"
+    }
+  },
+  "partner": "NOS CGU PARTENAIRES",
+  "footer": {
+    "card1": {
+      "title": "VENDEZ VOS BOUTEILLES DE VIN",
+      "content": "Vous êtes les tous premiers à découvrir ALAKAVE.com et ce site est sa première version. Étape par étape, vous découvrirez de nouvelles fonctionnalités et solutions. Merci de votre indulgence."
+    },
+    "card2": {
+      "title": "VENDEZ ET ENVOYEZ FACILEMENT",
+      "content": "Nous avons fait appel aux meilleures solutions de livraison comme les grands sites de vente entre particuliers. Dès qu’elle est vendue, emballez votre bouteille avec précaution, imprimez votre bordereau d’envoi et suiviez les instructions du routeur. C’est vraiment facile !"
+    },
+    "card3": {
+      "title": "BIEN REÇU ? VOUS ÊTES PAYÉS",
+      "content": "Il n'y a pas de frais de vente, ce que vous vendez rentre dans votre portemonnaie. Dès que l’acheteur aura valide la réception de la bouteille, l'argent de la vente est transféré sur votre compte. Vérifiez que le prix reste attractif !"
+    },
+    "link": "Vendre Une Bouteille",
+    "text": "Assurez-vous que votre prix soit attractif !"
+
+  }
+
+},
+"contactUs": {
+    "title": "Écrivez-nous",
+    "form": {
+      "fname": "Prénom",
+      "lname": "Nom",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "user_type_ph": "JE SUIS",
+      "user_types": {
+        "fin_partner": "Un partenaire financier",
+        "press": "Presse",
+        "tech_prod_partner": "Partenaire technique, produit ou opérations (Expert et professionnels du vin, sites web complémentaires, solutions de transport, etc…)",
+        "user_problem": "Un utilisateur avec un problème",
+        "user_compliments": "Un utilisateur avec des compliments"
+      },
+      "comment_ph": "Quelles sont vos pensées ?",
+      "submit_btn": "Soumettre"
+    },
+    "thank_you": "Merci de nous avoir contactés ! Nous avons reçu votre message et nous vous contacterons dès que possible. Vos pensées et questions sont importantes pour nous."
+  },
+  "login": {
+  "signInTitle": "Connectez-vous sur ALAKAVE",
+  "promptText": "Veuillez renseigner votre adresse e-mail pour commencer.",
+  "emailPlaceholder": "E-mail",
+  "passwordPlaceholder": "Entrez votre mot de passe",
+  "rememberPasswordText": "Enregistrer le mot de passe",
+  "forgotPasswordText": "Mot de passe oublié ? Réinitialisez-le",
+  "loginButtonText": "Login",
+  "noAccountText": "Vous n'avez pas de compte ?",
+  "registerLinkText": "S'inscrire"
+},
+"register": {
+  "title": "Créez votre compte de membre",
+  "welcome": "Bienvenue sur ALAKAVE ! Vous êtes sur le point de devenir membre du premier cercle privé de caves exceptionnelles",
+  "form": {
+    "fname": "Prénom",
+    "lname": "Nom",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "photo_upload": "Faites glisser et déposez votre photo de profil, ou cliquez pour sélectionner",
+    "dob": "Date de naissance",
+    "pass": "Mot de passe",
+    "confirm_pass": "Confirmez le mot de passe",
+    "prof_label": "Êtes-vous un vendeur professionnel?",
+    "prof_options": {
+      "yes": "Oui",
+      "no": "Non"
+    },
+    "terms_label": "En continuant, vous acceptez notre",
+    "and": "et",
+    "term": "Conditions générales",
+    "policy": "Politique de confidentialité",
+    "submit_btn": "S'inscrire",
+    "has_account": "Vous avez déjà un compte ?",
+    "login_link": "Se connecter"
+  }
+},
+"addProduct": {
+  "title": "Vendez votre article",
+  "form": {
+    "title": "Titre",
+    "description": "Décrivez votre article",
+    "vintage": "Millésime",
+    "region": "Région",
+    "price": "Prix",
+    "quantity": "Quantité",
+    "storage_location": "Sélectionnez un lieu de stockage",
+    "crd_capsule": "CRD Capsule:",
+    "yes": "Oui",
+    "no": "NON",
+    "wax": "La cire",
+    "too_old": "Trop vieux",
+    "type_of_wine": "Type de vin",
+    "organic_wine": "Vin BIO",
+    "biodynamic_wine": "Vin en Biodynamie",
+    "natural_wine": "Vin Nature",
+    "kosher_wine": "Vin Casher",
+    "add_bottle": "Ajouter une nouvelle bouteille",
+    "drop_files_here": "Déposez les fichiers ici...",
+    "drag_drop_select": "Faites glisser et déposez les photos de vos produits, ou cliquez pour sélectionner"
+  }
+},
+"accountSidebar": {
+  "myAccount": "Mon compte",
+  "message": "Messages",
+  "order": "Ma Kave",
+  "sponsor": "Mes amis et mes avis",
+  "trackOrder": "Suivi de commande",
+  "wallet": "Mon portefeuille",
+  "logOut": "Se déconnecter"
+},
+"wallet" : {
+  "title": "Mon portefeuille",
+  "available": "Solde disponible",
+  "pending": "Montant en attente",
+  "dialogTrigger": "Ajouter de l'argent",
+  "dialogTitle": "Ajouter de l'argent à votre portefeuille",
+  "dialogDescription": {
+    "enterAmount": "Entrez le montant",
+    "addBalanceButton": "Ajouter de l'argent au solde"
+  }
+},
+"myAccount": {
+    "userType": "PRO",
+    "gotSponsor": "Parrains",
+    "gaveSponsor": "membres parrainés",
+    "memberSince": "Membre depuis",
+    "aboutYou": "À propos de vous",
+    "addAddress": "Adresse de livraison",
+    "notFoundAddress": "Adresse non trouvée",
+    "paymentMethods": "Moyens de paiement",
+    "notFoundCard": "Carte non trouvée",
+    "proffesionalTitle": "Informations obligatoires pour utiliser les services professionnels",
+    "companyName": "NOM DE L'ENTREPRISE",
+    "siretNumber": "NUMÉRO DE SIRET",
+    "proof": "Veuillez télécharger votre preuve (KBIS - 3 mois)",
+    "directDelivery": "Avez-vous votre propre solution de livraison?",
+    "preferenceTitle": "Préférences et paramètres de confidentialité :",
+    "notificationsEmail": "Notifications par e-mail d'ALAKAVE",
+    "accountActivityAlerts": "Alertes concernant les activités sur mon compte (messages, parrainages, ventes, etc.)",
+    "marketingPromotion": "J'autorise ALAKAVE à partager des annonces et à promouvoir mes bouteilles en ligne et/ou à des fins de marketing",
+    "favoritesNotification": "J'autorise ALAKAVE à envoyer une notification aux membres dont j'ai mis en favoris les articles",
+    "personalizedContent": "Autoriser ALAKAVE à personnaliser mon flux d'actualités et les résultats de recherche en évaluant mes préférences, mes paramètres, mes achats précédents et mon utilisation du site Web et de l'application Vinted",
+    "verifiedInfo": "Informations vérifiées",
+    "email": "E-mail",
+    "phone": "Numéro de portable",
+    "idProof": "Pièce d'identité officielle (passeport, carte d'identité ou permis de conduire)",
+    "passwordChange": "Changer le mot de passe ?",
+    "sponsorshipRequests": "Demandes de parrainage",
+    "noRequest": "Pas de demande",
+    "selfDelivery": "Vous livrez vous-même ?",
+    "close": "Fermer",
+    "saveInfo": "Enregistrer les informations",
+    "editProfile": "Edit profile",
+    "editProfileDetails": "Edit you profile Details",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "emailPlaceholder": "E-mail",
+    "phonePlaceholder": "Téléphone",
+    "dateOfBirth": "Date de naissance",
+    "details": "Write about yourselff",
+    "closeButton": "Close",
+    "updateProfile": "Update Profile",
+    "addPaymentMethod": "Add New Payment Method",
+    "yes": "Oui",
+    "no": "Non",
+    "update": "Enregistrer",
+    "card": {
+      "title": "Ajouter une nouvelle méthode de paiement",
+      "cardNumber": " Numéro de carte",
+      "date": "Mois/Year",
+      "CVV": "Code CVV"
+    },
+  "address": {
+    "dialogTitle": "New Shipping Address",
+    "form": {
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "phone": "Téléphone",
+        "alternativePhone": "Téléphone alternatif",
+        "address1": "Adresse (ligne 1)",
+        "address2": "Adresse (ligne 2)",
+        "landmark": "Point de repère",
+        "city": "Ville",
+        "zipCode": "Code postal"
+    },
+    "buttonSubmit": "Enregistrer l'adresse"
+    },
+    "accepted": "accepté",
+    "pending": "en attente",
+    "denied": "refusé"
+  },
+  "order": {
+    "tab1": "En ligne",
+    "tab2": "Bouteilles vendues",
+    "tab3" : "Bouteilles achetées",
+    "tab4":  "Mes favoris",
+    "headers": {
+      "title": "Ajouter une bouteille",
+      "bottles": "Bouteilles",
+      "price": "Prix €",
+      "quantity": "Quantité",
+      "region": "Lieu de stockage",
+      "crdCapsule": "CRD Capsule"
+    }
+  },
+  "sponsor": {
+    "tab1": "Parrains",
+    "tab2": "Avis reçus",
+    "tab3": "Avis donnés",
+    "sponsorTitle": "Mes Parrains",
+    "notFound": "Aucune information.",
+    "childrenTitle": "Mes filleuls",
+    "sponsorWaiting": "ils attendent votre parrainage",
+    "search": "Trouver des amis et des parrains"
+
+  },
+  "product": {
+    "table": {
+    "vintage": "Millésime",
+    "region": "Région",
+    "quantity": "Qté",
+    "storage": "Emplacement de stockage",
+    "crdCapsule": "Capsule CRD",
+    "views": "Vues",
+    "wishList": "Ajouté à la liste de souhaits",
+    "added": "Ajouté le"
+    },
+    "about": "À propos de cette bouteille",
+    "payment": "Acheter",
+    "chat": "Faire une offre",
+    "similar": "Articles similaires"
+  },
+  "productChat": {
+  "buyNow": "Acheter maintenant",
+  "offer": "Faire une offre",
+  "added": "Ajouté le",
+  "soldBy": "Vendu par",
+  "typeMessage": "Tapez votre message..."
+  },
+  "payment": {
+    "title": "Paiement",
+    "address": {
+      "title": "Adresse de Livraison",
+      "notFound": "Adresse non Trouvée"
+    },
+    "card": {
+      "title": "Paiement par carte",
+      "notFound": "Aucune carte trouvée"
+    },
+    "wallet": {
+      "title": "Paiement par portefeuille",
+      "name": "Portefeuille",
+      "balance": "Solde",
+      "notFound": "No Wallet Found"
+    },
+     "shipping": {
+      "service": {
+        "title": "Prestations de service",
+        "placeholder": "Sélectionnez les service",
+        "label1": "Chrono13 toC (Livraison domestique à domicile)",
+        "option1": "Livraison semaine",
+        "option2": "Livraison le samedi",
+        "label2": "Chrono13 Relais (Livraison magasin Pudo)"
+      }
+    },
+    "order": {
+      "title": "Order Details",
+      "subTotal": "Sous-total des articles",
+      "fee": "Frais de service (12%)",
+      "delivery": "Chronopost Frais de livraison",
+      "total": "total",
+      "checkout":"Checkout"
+    }
+  },
+  "seller": {
+    "verified": "Utilisateur vérifié",
+    "professional": "Vendeur professionnel",
+    "date": "Membre depuis",
+    "about": "À PROPOS",
+    "productTitle": "La Kave de"
+  },
+  "trackOrder": {
+    "title": "Numéro de suivi",
+    "btnText": "Suivre",
+    "label": "Entrez le numéro de suivi"
+  },
+   "legal": {
+    "title": "Mentions légales et conditions générales d’utilisation.",
+    "partner": "NOS CGU PARTENAIRES",
+    "cards": {
+      "card1": {
+        "title": "Legal",
+        "description": " Aimez-vous ce projet? Nous recherchons des partenaires très spécifiques. Si vous pensez pouvoir apporter un réel apport aux alcans, n'hésitez pas à nous contacter.",
+        "linkText": "Contact"
+      },
+      "card2": {
+        "title": "Qui sommes nous?",
+        "description": "Nous sommes la rencontre d'entrepreneurs vitivinicoles amateurs aguerris, respectueux de la tradition et de la qualité, passionnés de technologie et d'innovation.",
+        "linkText": "QUI SOMMES NOUS?"
+
+      },
+      "card3": {
+        "title": "J'ai vraiment besoin d'aide",
+        "description": "Notre équipe est encore très réduite mais fera tout son possible pour vous aider",
+        "linkText": "Contact"
+      }
+    }
+   }
+
+
+
+}

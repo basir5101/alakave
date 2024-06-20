@@ -1,0 +1,30 @@
+.headerSection {
+    background-size: cover;
+    background-position: center;
+    height: 400px; 
+  }
+  
+  .gridContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .headerText {
+    text-align: center;   
+  }
+  
+  
+  .productContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .productItem {
+    flex: 1 0 300px; /* Items will grow to fill the space but start at 300px */
+    /* Additional styles for product items */
+  }
+  
