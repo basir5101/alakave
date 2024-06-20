@@ -3,9 +3,10 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper.min.css";
 import "swiper/css/pagination";
-import Pagination from "swiper";
+// import Pagination from "swiper";
 import Image from "next/image";
 import MyContext from "../../contexts/MyContext";
+import { Pagination } from "swiper/modules";
 
 interface Slide {
   src: string;
@@ -32,12 +33,12 @@ const ImageSlider: React.FC = () => {
       buttonAction: () => alert("Second Button Clicked!"),
     },
     {
-        src: "https://alakave.com/image/banner/64e65005dccfe.jpg",
-        alt: "Third Slide",
-        text: "La confiance? C’est essentiel.  Bienvenus sur alakave.com, le cercle privé des caves d’exception. Ici, on achète et on vend les vins de notre cave de entre amis, entre amateurs ou passionnés, entre particuliers ou professionnels, de cave à cave… On achète et on vend surtout entre membre ",
-        buttonText: "Créer mon compte gratuit",
-        buttonAction: () => alert("Second Button Clicked!"),
-      },
+      src: "https://alakave.com/image/banner/64e65005dccfe.jpg",
+      alt: "Third Slide",
+      text: "La confiance? C’est essentiel.  Bienvenus sur alakave.com, le cercle privé des caves d’exception. Ici, on achète et on vend les vins de notre cave de entre amis, entre amateurs ou passionnés, entre particuliers ou professionnels, de cave à cave… On achète et on vend surtout entre membre ",
+      buttonText: "Créer mon compte gratuit",
+      buttonAction: () => alert("Second Button Clicked!"),
+    },
   ];
 
   return (
@@ -56,8 +57,9 @@ const ImageSlider: React.FC = () => {
               fill
               sizes="100vw"
               style={{
-                objectFit: "cover"
-              }} />
+                objectFit: "cover",
+              }}
+            />
             <div className="absolute w-full h-full top-0 left-0 flex flex-col justify-center items-center bg-black bg-opacity-50">
               <p className="text-white text-xl mb-4">{slide.text}</p>
               <button
@@ -75,5 +77,3 @@ const ImageSlider: React.FC = () => {
 };
 
 export default ImageSlider;
-
-
