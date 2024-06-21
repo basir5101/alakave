@@ -8,9 +8,10 @@ import { Product } from "@/types/product";
 import Link from "next/link";
 import { redirect } from "next/navigation";
 import ProductCard from "@/components/common/ProductCard";
-import { useLocale } from "next-intl";
+// import { useLocale } from "next-intl";
+import { getLocale } from "next-intl/server";
 export default async function Page() {
-  const local = useLocale();
+  const local = await getLocale();
   const user = await getCurrentUser();
   if (!user) {
     redirect(`${local}/login`);

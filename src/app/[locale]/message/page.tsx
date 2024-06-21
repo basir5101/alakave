@@ -16,9 +16,10 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import React from "react";
 import "moment/locale/fr";
-import { useLocale } from "next-intl";
+import { getLocale } from "next-intl/server";
+// import { useLocale } from "next-intl";
 export default async function Page() {
-  const locale = useLocale();
+  const locale = await getLocale();
   const user = await getCurrentUser();
   if (!user) {
     redirect(`/${locale}/login`);

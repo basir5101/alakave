@@ -4,8 +4,9 @@ import Tabs from "./Tabs";
 import { getCurrentUser } from "@/lib/firebase/firebase-admin";
 import { redirect } from "next/navigation";
 import { useLocale } from "next-intl";
+import { getLocale } from "next-intl/server";
 export default async function Page() {
-  const locale = useLocale();
+  const locale = await getLocale();
   const user = await getCurrentUser();
   if (!user) {
     redirect(`/${locale}/login`);

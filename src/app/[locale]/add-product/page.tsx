@@ -7,11 +7,12 @@ import {
 import { redirect } from "next/navigation";
 import Navbar from "@/components/common/Navbar";
 import AccountLayout from "@/components/layout/AccountLayout";
-import { useLocale } from "next-intl";
+// import { useLocale } from "next-intl";
+import { getLocale } from "next-intl/server";
 
 export default async function Page() {
   const currentUser = await getCurrentUser();
-  const locale = useLocale();
+  const locale = await getLocale();
   if (!(await isUserAuthenticated())) redirect(`/${locale}/login`);
   return (
     <AccountLayout>

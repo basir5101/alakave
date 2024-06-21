@@ -6,11 +6,12 @@ import AccountLayout from "@/components/layout/AccountLayout";
 import { getCurrentUser } from "@/lib/firebase/firebase-admin";
 import { redirect } from "next/navigation";
 import Form from "./Form";
-import { useLocale } from "next-intl";
+import { getLocale } from "next-intl/server";
 
 export default async function Page({ params }: any) {
   const user = await getCurrentUser();
-  const locale = useLocale();
+  const locale = await getLocale();
+
   if (!user) {
     redirect(`/${locale}/login`);
   }

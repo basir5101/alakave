@@ -20,7 +20,6 @@ import Footer from "@/components/Footer";
 import { useLocale, useTranslations } from "next-intl";
 
 export default async function Page({ params }: any) {
-  const locale = useLocale();
   // const t = useTranslations("productChat");
 
   let messages: any = [];

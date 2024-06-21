@@ -5,9 +5,10 @@ import Link from "next/link";
 import Navbar2 from "@/components/common/Navbar2";
 import Footer from "@/components/Footer";
 import Navbar from "@/components/common/NavbarIntro";
-import { useLocale } from "next-intl";
+// import { useLocale } from "next-intl";
+import { getLocale } from "next-intl/server";
 export default async function WineGuide() {
-  const local = useLocale();
+  const local = await getLocale();
   const wineRegions = [
     {
       name: "Sud Ouest",

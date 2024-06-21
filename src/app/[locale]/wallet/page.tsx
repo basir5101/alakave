@@ -8,8 +8,9 @@ import React from "react";
 import AddMoney from "./AddMoney";
 import { redirect } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
+import { getLocale } from "next-intl/server";
 export default async function Page() {
-  const locale = useLocale();
+  const locale = await getLocale();
   let data: any = {};
   const user = await getCurrentUser();
   if (!user) {

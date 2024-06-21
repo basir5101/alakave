@@ -11,7 +11,8 @@ import Footer from "@/components/Footer";
 import Navbar2 from "@/components/common/Navbar2";
 import { redirect } from "next/navigation";
 import ShippingFee from "./ShippingFee";
-import { useLocale, useTranslations } from "next-intl";
+import { useTranslations } from "next-intl";
+import { getLocale } from "next-intl/server";
 
 interface Address {
   alternativePhone: string | null;
@@ -28,7 +29,7 @@ interface Address {
 
 export default async function Payment({ params }: any) {
   const user = await getCurrentUser();
-  const locale = useLocale();
+  const locale = await getLocale();
   if (!user) {
     redirect(`/${locale}/login`);
   }

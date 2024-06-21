@@ -6,10 +6,11 @@ import { collection, getDocs, query, where } from "firebase/firestore";
 import React, { useState } from "react";
 import Tabs from "./Tabs";
 import { redirect } from "next/navigation";
-import { useLocale } from "next-intl";
+import { getLocale } from "next-intl/server";
+// import { useLocale } from "next-intl";
 export default async function Page() {
   const currentUser: any = await getCurrentUser();
-  const locale = useLocale();
+  const locale = await getLocale();
   if (!currentUser) {
     redirect(`/${locale}/login`);
   }

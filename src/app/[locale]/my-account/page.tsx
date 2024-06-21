@@ -16,7 +16,8 @@ import {
 } from "firebase/firestore";
 import { db } from "@/lib/firebase-config";
 import { User } from "@/types/user";
-import { useLocale } from "next-intl";
+// import { useLocale } from "next-intl";
+import { getLocale } from "next-intl/server";
 interface Address {
   alternativePhone: string | null;
   lastName: string;
@@ -31,7 +32,7 @@ interface Address {
 }
 
 export default async function Page() {
-  const locale = useLocale();
+  const locale = await getLocale();
   let data = {};
   let userAddress: Address[] = [];
   const currentUser = await getCurrentUser();
