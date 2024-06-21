@@ -205,8 +205,9 @@ export default function Register() {
         toast.dismiss();
         toast.loading("Login user...");
         await signInWithCredentials(userData.email, userData.password);
-        toast.dismiss();
-        router.push(`/${local}/home_screen`); // Redirect to the home screen
+        await toast.dismiss();
+        router.refresh();
+        await router.push(`/${local}/home_screen`); // Redirect to the home screen
       } catch (error) {
         toast.dismiss();
         if (error instanceof Error) {
