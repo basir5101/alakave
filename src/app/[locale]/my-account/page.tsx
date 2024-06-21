@@ -66,13 +66,13 @@ export default async function Page() {
   const gotSponsors = (await getDocs(asReceiver)).size;
   const gaveSponsors = (await getDocs(asSender)).size;
   try {
-    const res = await fetch(
-      `${process.env.API_URL}/api/wallet?walletId=${user?.walletId}&cardId=${
-        user?.cardId || user?.cardReg
-      }`,
-      { cache: "no-cache" }
-    );
-    data = await res?.json();
+    // const res = await fetch(
+    //   `${process.env.API_URL}/api/wallet?walletId=${user?.walletId}&cardId=${
+    //     user?.cardId || user?.cardReg
+    //   }`,
+    //   { cache: "no-cache" }
+    // );
+    // data = await res?.json();
   } catch (error) {}
   return (
     <AccountLayout>
